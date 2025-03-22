@@ -1,0 +1,87 @@
+D:\.NET\quiet attick production\quiet attick production\bin\Debug\quiet attick production.exe.config
+D:\.NET\quiet attick production\quiet attick production\bin\Debug\quiet attick production.exe
+D:\.NET\quiet attick production\quiet attick production\bin\Debug\quiet attick production.pdb
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.AssemblyReference.cache
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.login_form.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.Properties.Resources.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.GenerateResource.cache
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.CoreCompileInputs.cache
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet attick production.exe
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet attick production.pdb
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.clientuc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.locationuc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staff.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staffuc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.paymentuc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.viewform.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actor.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actor_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.admincontrol.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.client_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.location_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.production_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staff_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.property_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.welcome_uc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actoruc.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.Manager_Dashboard.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.m_Client.resources
+D:\.NET\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.m_staff.resources
+D:\projects\quiet attick production\quiet attick production\bin\Debug\quiet attick production.exe.config
+D:\projects\quiet attick production\quiet attick production\bin\Debug\quiet attick production.exe
+D:\projects\quiet attick production\quiet attick production\bin\Debug\quiet attick production.pdb
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.AssemblyReference.cache
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actor.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actoruc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.actor_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.admincontrol.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.clientuc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.client_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.locationuc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.location_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.login_form.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.Manager_Dashboard.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.m_Client.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.m_staff.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.paymentuc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.production_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.Properties.Resources.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.property_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staff.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staffuc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.staff_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.viewform.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet_attick_production.welcome_uc.resources
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.GenerateResource.cache
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet attick production.csproj.CoreCompileInputs.cache
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet attick production.exe
+D:\projects\quiet attick production\quiet attick production\obj\Debug\quiet attick production.pdb
+D:\projects\quiet attick production V 1.0\quiet attick production\bin\Debug\quiet attick production.exe.config
+D:\projects\quiet attick production V 1.0\quiet attick production\bin\Debug\quiet attick production.exe
+D:\projects\quiet attick production V 1.0\quiet attick production\bin\Debug\quiet attick production.pdb
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet attick production.csproj.AssemblyReference.cache
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.actor.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.actoruc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.actor_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.admincontrol.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.clientuc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.client_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.locationuc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.location_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.login_form.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.Manager_Dashboard.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.m_Client.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.m_staff.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.paymentuc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.production_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.Properties.Resources.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.property_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.staff.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.staffuc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.staff_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.viewform.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet_attick_production.welcome_uc.resources
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet attick production.csproj.GenerateResource.cache
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet attick production.csproj.CoreCompileInputs.cache
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet attick production.exe
+D:\projects\quiet attick production V 1.0\quiet attick production\obj\Debug\quiet attick production.pdb

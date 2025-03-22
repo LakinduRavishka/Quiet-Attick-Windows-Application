@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D2C7044-A7AB-4A61-84BA-9730F227B7A9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>quiet_attick_production</RootNamespace>
+    <AssemblyName>quiet attick production</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="actor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="actor.Designer.cs">
+      <DependentUpon>actor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="actoruc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="actoruc.Designer.cs">
+      <DependentUpon>actoruc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="actor_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="actor_uc.Designer.cs">
+      <DependentUpon>actor_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admincontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admincontrol.Designer.cs">
+      <DependentUpon>admincontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clientuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="clientuc.Designer.cs">
+      <DependentUpon>clientuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="client_uc.Designer.cs">
+      <DependentUpon>client_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="film_productionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>film_productionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="locationuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="locationuc.Designer.cs">
+      <DependentUpon>locationuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="location_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="location_uc.Designer.cs">
+      <DependentUpon>location_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_form.Designer.cs">
+      <DependentUpon>login_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager_Dashboard.Designer.cs">
+      <DependentUpon>Manager_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="m_Client.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="m_Client.Designer.cs">
+      <DependentUpon>m_Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="m_staff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="m_staff.Designer.cs">
+      <DependentUpon>m_staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paymentuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="paymentuc.Designer.cs">
+      <DependentUpon>paymentuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="production_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="production_uc.Designer.cs">
+      <DependentUpon>production_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="property_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="property_uc.Designer.cs">
+      <DependentUpon>property_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qaf.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>qaf.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quiet_Attic_FilmsDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quiet_Attic_FilmsDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Quiet_Attic_FilmsDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Quiet_Attic_FilmsDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff.Designer.cs">
+      <DependentUpon>staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="staffuc.Designer.cs">
+      <DependentUpon>staffuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staff_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="staff_uc.Designer.cs">
+      <DependentUpon>staff_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewform.Designer.cs">
+      <DependentUpon>viewform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="welcome_uc.Designer.cs">
+      <DependentUpon>welcome_uc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="actor.resx">
+      <DependentUpon>actor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="actoruc.resx">
+      <DependentUpon>actoruc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="actor_uc.resx">
+      <DependentUpon>actor_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admincontrol.resx">
+      <DependentUpon>admincontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientuc.resx">
+      <DependentUpon>clientuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client_uc.resx">
+      <DependentUpon>client_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="locationuc.resx">
+      <DependentUpon>locationuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="location_uc.resx">
+      <DependentUpon>location_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_form.resx">
+      <DependentUpon>login_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_Dashboard.resx">
+      <DependentUpon>Manager_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="m_Client.resx">
+      <DependentUpon>m_Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="m_staff.resx">
+      <DependentUpon>m_staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paymentuc.resx">
+      <DependentUpon>paymentuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="production_uc.resx">
+      <DependentUpon>production_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="property_uc.resx">
+      <DependentUpon>property_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff.resx">
+      <DependentUpon>staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffuc.resx">
+      <DependentUpon>staffuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff_uc.resx">
+      <DependentUpon>staff_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewform.resx">
+      <DependentUpon>viewform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome_uc.resx">
+      <DependentUpon>welcome_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="film_productionDataSet.xsc">
+      <DependentUpon>film_productionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="film_productionDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>film_productionDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="film_productionDataSet.xss">
+      <DependentUpon>film_productionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="qaf.xsc">
+      <DependentUpon>qaf.xsd</DependentUpon>
+    </None>
+    <None Include="qaf.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>qaf.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="qaf.xss">
+      <DependentUpon>qaf.xsd</DependentUpon>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet1.xsc">
+      <DependentUpon>Quiet_Attic_FilmsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Quiet_Attic_FilmsDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet1.xss">
+      <DependentUpon>Quiet_Attic_FilmsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet11.xsc">
+      <DependentUpon>Quiet_Attic_FilmsDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Quiet_Attic_FilmsDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Quiet_Attic_FilmsDataSet11.xss">
+      <DependentUpon>Quiet_Attic_FilmsDataSet11.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
