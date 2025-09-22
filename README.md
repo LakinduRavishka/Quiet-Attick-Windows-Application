@@ -1,30 +1,30 @@
 Here's a simplified README for your "Quiet-Attick Windows Application" project, modeled after the example you provided:
 
 ---
+#DEMO: https://drive.google.com/file/d/1KvDZ4dC3r8Dt-kpev4R65qorPOfpqPVI/view?usp=sharing
 
 # Quiet Attick Windows Application
 
 ## Project Overview
-Quiet Attick is a Windows-based application designed to [brief description of the app’s purpose]. The application features a user-friendly interface and essential functionalities tailored to [specific target users or use cases]. It provides a seamless experience for [main features, e.g., managing tasks, viewing data, or interacting with content].
+Quiet Attick is a Windows-based application designed to manage film production. The application features a user-friendly interface and essential functionalities tailored to staff.
 
 ## Features
 
 - **Simple User Interface**: Clean and intuitive layout for smooth navigation.
 - **User Authentication**: Sign-in feature for secure user access.
-- **Data Management**: Efficient handling of [specific data, e.g., user profiles, tasks, etc.].
 - **Interactive Components**: Buttons, sliders, and input fields for user interactions.
 - **Responsive Design**: Adjusts to different screen resolutions for better accessibility.
 
 ## Tech Stack
 
 - **Frontend**: 
-  - [Tech you used, e.g., Windows Forms, WPF, or another framework]
+  - Tech used, e.g., Windows Forms, .NET framework
   
 - **Backend**: 
-  - [Tech used, e.g., .NET, C# for Windows application logic]
+  - [Tech used, .NET, C# for Windows application logic
 
 - **Database**: 
-  - [Database type, e.g., SQLite, MySQL] for storing data.
+  - Database type, MySQL for storing data.
 
 ## How to Use
 
