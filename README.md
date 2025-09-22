@@ -65,7 +65,7 @@ Quiet Attick is a Windows-based application designed to [brief description of th
 
 ## Credits
 
-This application was developed by [Your Name] for [Purpose of the app, e.g., personal use, a specific client, etc.]. All assets and code used within this project are either created by me or used with permission.
+This application was developed by LakinduRavishka for my Acadamic project. All assets and code used within this project are either created by me or used with permission.
 
 ---
 
